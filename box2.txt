@@ -1,0 +1,1 @@
+bulb,tube,fan,oven,nil,nil,nil,nil,nil

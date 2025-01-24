@@ -1,0 +1,1 @@
+bulb,tube,fan,oven,ac,lamp,cooler,tv,fridge
