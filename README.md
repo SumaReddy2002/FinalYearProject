@@ -1,0 +1,1 @@
+Creating a real-time monitoring and configuration interface for smart home devices using Streamlit and Pygame. Streamlit provides an easy way to build interactive web apps, while Pygame enhances visual engagement. Users can control devices, view live data, and adjust settings through an intuitive dashboard, ensuring seamless management of their smart home ecosystem.
